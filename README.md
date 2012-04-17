@@ -1,3 +1,7 @@
+**Depends on:** MultiMarkdown
+
+This is a folk of [swaroopch's vim-markdown-preview](https://github.com/swaroopch/vim-markdown-preview).
+It is working well on Windows now.
 
 In Vim, (optionally) select some text and then press `:MarkdownPreview` and see the rendered results in a browser.
 
